@@ -1,0 +1,106 @@
+Ciphertext:
+
+The letter I occurred 1062 times,which is 11.0590%
+The letter B occurred 939 times,which is 9.7782%
+The letter W occurred 830 times,which is 8.6431%
+The letter E occurred 746 times,which is 7.7684%
+The letter R occurred 648 times,which is 6.7479%
+
+The letter H occurred 637 times,which is 6.6333%
+The letter M occurred 626 times,which is 6.5188%
+The letter P occurred 554 times,which is 5.7690%
+The letter O occurred 488 times,which is 5.0817%
+The letter Y occurred 477 times,which is 4.9672%
+
+The letter C occurred 400 times,which is 4.1654%
+The letter V occurred 334 times,which is 3.4781%
+The letter U occurred 270 times,which is 2.8116%
+The letter J occurred 261 times,which is 2.7179%
+The letter Q occurred 257 times,which is 2.6762%                    
+
+The letter A occurred 200 times,which is 2.0827%
+The letter N occurred 189 times,which is 1.9681%
+The letter S occurred 171 times,which is 1.7807%
+The letter T occurred 171 times,which is 1.7807%
+The letter F occurred 129 times,which is 1.3433%
+
+The letter L occurred 108 times,which is 1.1246%
+The letter K occurred 73 times,which is 0.7602%
+The letter D occurred 17 times,which is 0.1770%
+The letter X occurred 11 times,which is 0.1145%
+The letter G occurred 4 times,which is 0.0417%
+The letter Z occurred 1 times,which is 0.0104%
+
+Orignal text:
+
+The letter E occurred 1062 times,which is 11.0590%
+The letter T occurred 939 times,which is 9.7782%  
+The letter O occurred 830 times,which is 8.6431%  
+The letter A occurred 746 times,which is 7.7684%  
+The letter I occurred 648 times,which is 6.7479% 
+
+The letter H occurred 637 times,which is 6.6333%  
+The letter N occurred 626 times,which is 6.5188%  
+The letter S occurred 554 times,which is 5.7690%  
+The letter D occurred 488 times,which is 5.0817%  
+The letter R occurred 477 times,which is 4.9672%  
+
+The letter L occurred 400 times,which is 4.1654%  
+The letter U occurred 334 times,which is 3.4781%  
+The letter M occurred 270 times,which is 2.8116%  
+The letter W occurred 261 times,which is 2.7179%
+The letter Y occurred 257 times,which is 2.6762%
+
+The letter C occurred 200 times,which is 2.0827%
+The letter F occurred 189 times,which is 1.9681%
+The letter B occurred 171 times,which is 1.7807%
+The letter G occurred 171 times,which is 1.7807%
+The letter P occurred 129 times,which is 1.3433%
+
+The letter K occurred 108 times,which is 1.1246%
+The letter V occurred 73 times,which is 0.7602%
+The letter J occurred 17 times,which is 0.1770%
+The letter X occurred 11 times,which is 0.1145%
+The letter Q occurred 4 times,which is 0.0417%
+The letter Z occurred 1 times,which is 0.0104%
+
+Total letters in file: 9603
+
+Substitution.txt :
+
+The letter J occurred 1210 times,which is 12.5845% E
+The letter E occurred 886 times,which is 9.2148% T
+The letter L occurred 794 times,which is 8.2579% A
+The letter A occurred 746 times,which is 7.7587% O
+The letter M occurred 688 times,which is 7.1555% I
+
+The letter U occurred 669 times,which is 6.9579% <- N ---->POS S
+The letter X occurred 649 times,which is 6.7499% <- S ---->POS N
+The letter V occurred 556 times,which is 5.7826% <- H
+The letter D occurred 535 times,which is 5.5642% <- R
+The letter C occurred 426 times,which is 4.4306%    D
+
+The letter G occurred 343 times,which is 3.5673%  L
+The letter B occurred 265 times,which is 2.7561%  U OR C
+The letter Y occurred 262 times,which is 2.7249%  U OR C
+The letter R occurred 220 times,which is 2.2881%  M OR W Swapped
+The letter F occurred 217 times,which is 2.2569%  M OR W
+
+The letter S occurred 211 times,which is 2.1945%  F
+The letter Z occurred 209 times,which is 2.1737%  G OR Y
+The letter I occurred 205 times,which is 2.1321%  G OR Y
+The letter K occurred 189 times,which is 1.9657%  P
+The letter H occurred 138 times,which is 1.4353%  B
+
+The letter W occurred 104 times,which is 1.0816% V
+The letter T occurred 55 times,which is 0.5720% K
+The letter N occurred 11 times,which is 0.1144% J OR X
+The letter Q occurred 11 times,which is 0.1144% J OR X
+The letter P occurred 9 times,which is 0.0936% Q
+The letter O occurred 7 times,which is 0.0728% Z
+
+A B C D E F G H I J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+THE check
+
+MADDCENIHCAEDIOCEFEARIAWOSEVERCNSLHOGDOSWPREMNIEDFHAVNSWDNTTDEORSOCOSEFNSCFPURIE

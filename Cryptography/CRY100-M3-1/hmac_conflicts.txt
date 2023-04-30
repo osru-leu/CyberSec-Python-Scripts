@@ -1,0 +1,20 @@
+
+Conflicting HMACs:
+Line 7: The mailbox was bent and broken and looked like someone had knocked it over on purpose.
+------> tags.txt HMAC: 782c4593d09ae7bc5fdc2aeab5bce8ed vs. Actual HMAC: 682c4593d09ae7bc5fdc2aeab5bce8ed
+
+Conflicting HMACs:
+Line 17: This dinner is so delicious I can't stop eating.
+------> tags.txt HMAC: 526c47e5777e1737070138eebb65ca56 vs. Actual HMAC: 426c47e5777e1737070138eebb65ca56
+
+Conflicting HMACs:
+Line 29: I got my haircut today and they did it way too short.
+------> tags.txt HMAC: d2200a338e98f3ba4e93c3ee77d87a78 vs. Actual HMAC: c2200a338e98f3ba4e93c3ee77d87a78
+
+Conflicting HMACs:
+Line 41: The game looked fun but all the pieces were missing.
+------> tags.txt HMAC: 3f0bfacf7956ea74d42948e3770b3c16 vs. Actual HMAC: 2f0bfacf7956ea74d42948e3770b3c16
+
+Conflicting HMACs:
+Line 55: He was driving me crazy so I told a joke and made him laugh.
+------> tags.txt HMAC: cb758c01796680ba3116867676e5dac9 vs. Actual HMAC: bb758c01796680ba3116867676e5dac9
