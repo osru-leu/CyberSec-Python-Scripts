@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# Lab instructions: Explain each line of code
 # set variable to an empty string for later storage
 number = ""
 

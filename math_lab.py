@@ -62,8 +62,3 @@ for num in range(len(digits)):
     print('result', result)
 print(result)
 
-'''
-what you need to do now.
-You need to know if i in number is a letter. If it is a letter you need to set that i(or letter) to the number of its 
-index value if i >= 10:
-                then the index[number] == i'''

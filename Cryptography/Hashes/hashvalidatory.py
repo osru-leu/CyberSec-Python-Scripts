@@ -3,16 +3,18 @@ import hashlib
 
 if __name__ == "__main__":
     letters = "abcdefghijklmnopqrstuvwxyz"
-    filename = "c:/Users/ursos/Desktop/School/Thonny Progs/Cryptography/Hashes/hash_short.txt"
+    filename = "C:/Users/ursos/Desktop/School/Scripts/Cryptography/Hashes/hash_short.txt"
     
     try:
         f=open(filename)
+        print(f)
         inputtext = f.read()
-        # print(f'input text:\n{inputtext}')
+        print(f'input text:\n{inputtext}')
     except:
         f="error"
+        print(f)
 
-    # hashes=[] # <----why?
+    # hashes=[] # 
     
     hashes = inputtext.split("\n")
 
