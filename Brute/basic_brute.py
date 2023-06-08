@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# python script for brute forcing apache2 basic auth on linux machines
+# Python script for brute forcing apache2 basic auth on linux machines
  
 import base64
 import subprocess
