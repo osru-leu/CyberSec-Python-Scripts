@@ -2,7 +2,7 @@
 
 
 ''' 1. The Script takes an input, passes it to hashlib md5 to hash
-    2..opens a text file containing hashes.
+    2. opens a text file containing hashes.
     3. The for loop compares the hashes in the .txt file to the hash result of the input and checks for
        a match. '''
 
