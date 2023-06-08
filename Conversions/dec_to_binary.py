@@ -5,7 +5,7 @@
 
 #mynumber = 97
 output = ""
-myvalue = 97
+myvalue = int(input("What decimal would you like to convert to binary? "))
 while (myvalue > 0):
     myremainder = myvalue % 2
     print(f'my remainder {myremainder}')

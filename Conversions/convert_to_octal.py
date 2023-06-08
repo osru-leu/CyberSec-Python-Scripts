@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+
+# A Flatiron School assignment - "Explain every line of code" 
+#Converts a Decimal e.g. 39, to an octal while showing the process of conversion
 # set variable to an empty string for later storage
 number = ""
 
