@@ -1,7 +1,7 @@
 '''
 Date: Jun 2021
 *NOTE:
-    Unfortunately this code vulnerable to the ongoing restructuring of the webite
+    This code is vulnerable to the ongoing restructuring of the webite
     geeksforgeeks.com. Due to this, the program no longer functions properly as it did
     when it was written.
 '''
