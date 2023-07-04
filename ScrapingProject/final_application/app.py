@@ -2,7 +2,7 @@
 Date: Jun 2021
 *NOTE:
     This code is vulnerable to the ongoing restructuring of the webite
-    geeksforgeeks.com. Due to this, the program no longer functions properly as it did
+    geeksforgeeks.com. Due to this, the program may no longer functions properly as it did
     when it was written.
 '''
 
