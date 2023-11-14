@@ -1,3 +1,10 @@
+'''
+-Analyzes the number of times each letter of the alphabet occurs in a file.
+-For cryptographic purposes
+'''
+
+
+
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 freq={}
 totalLetters = 0

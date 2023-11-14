@@ -15,4 +15,4 @@ for mycount in range(0,15):
         print(outputodd)
 print("Even:", outputeven, " Odd:", outputodd)
 
-file = open("test.txt")
+file = open("example.txt")
